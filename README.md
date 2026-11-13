@@ -1,6 +1,6 @@
-# IT Services
+# **IT Services Monitor**
 
-PHP-Anwendung zur Überwachung von HTTP(S)-Adressen, Suchtexten in HTTP-Antworten und TCP-Ports. Die Oberfläche ist auf Deutsch und Englisch verfügbar und verwendet MVC mit SQLite. Externe Frameworks und Composer sind nicht erforderlich.
+PHP-Anwendung zur Überwachung der Erreichbarkeit von HTTP(S)-Diensten und TCP-Ports sowie zur Prüfung von Suchtexten in HTTP-Antworten. Die Oberfläche ist auf Deutsch und Englisch verfügbar und verwendet MVC mit SQLite. Externe Frameworks und Composer sind nicht erforderlich.
 
 ## Voraussetzungen
 
